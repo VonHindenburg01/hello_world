@@ -1,2 +1,5 @@
 print("Hello Class")
 print("Hello dev")
+A = float(input("Input A: "))
+B = float(input("Input B: "))  
+operator = input("Operator (+, -, *, /): ")
